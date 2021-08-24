@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #container {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+  }
+  
+  #map {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+  }
+  
+  #preview {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    border:2px solid grey;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  
+  
+  }

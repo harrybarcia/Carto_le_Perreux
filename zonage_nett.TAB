@@ -1,0 +1,10 @@
+!table
+!version 900
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    ID Char (254) ;
+    HAUTEUR Float ;
+    LIBELLE Char (3) ;

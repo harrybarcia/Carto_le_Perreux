@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type ASCII Delimiter 09 Titles Charset "WindowsLatin1"
+  Fields 6
+    ID Char (24) Index 1 ;
+    HAUTEUR Float ;
+    sur_map Char (8) ;
+    sur_int Char (8) ;
+    LIBELLE Char (3) ;
+    int Char (11) ;
